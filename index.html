@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Pengawasan LJK — OJK Kalimantan Selatan 2026</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <!-- Chart.js DataLabels plugin for showing values inside charts -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+  <!-- PapaParse for parsing CSV from Google Sheets -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <!-- Header -->
+  <div class="header-wrapper animate-in" style="animation-delay: 0.1s">
+    <header class="header">
+      <div class="header-logo-title">
+        <div class="logo">OJK</div>
+        <div class="title-container">
+          <h1>DASHBOARD MONITORING PENGAWASAN LJK</h1>
+          <h2>OJK PROVINSI KALIMANTAN SELATAN</h2>
+        </div>
+      </div>
+      <div class="header-date">
+        <span class="icon">📅</span>
+        <div class="date-text">
+          <span class="date-label">Data per :</span>
+          <span id="metaDate">Memuat...</span>
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <!-- Filters -->
+  <div class="filter-bar glass-card animate-in" style="animation-delay: 0.2s">
+    <div class="filter-group">
+      <label>Bulan</label>
+      <select id="filterBulan"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Supervisor</label>
+      <select id="filterSupervisor"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Status Kegiatan</label>
+      <select id="filterStatus"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Sektor</label>
+      <select id="filterSektor"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Jenis LJK</label>
+      <select id="filterJenisLJK"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Jenis Kegiatan</label>
+      <select id="filterJenisKegiatan"><option value="">Semua</option></select>
+    </div>
+    <div class="filter-group">
+      <label>Kabupaten / Kota</label>
+      <select id="filterKotaKab"><option value="">Semua</option></select>
+    </div>
+  </div>
+
+  <!-- Metrics -->
+  <div class="metrics-grid">
+    <div class="metric-card glass-card animate-in" style="animation-delay: 0.3s">
+      <div class="metric-icon" style="background:#C00000; color:white;">📋</div>
+      <div class="metric-content">
+        <span class="metric-label">TOTAL KEGIATAN</span>
+        <span class="metric-value" id="valTotal">0</span>
+        <span class="metric-unit">Kegiatan</span>
+      </div>
+    </div>
+    <div class="metric-card glass-card animate-in" style="animation-delay: 0.35s">
+      <div class="metric-icon" style="background:#22c55e; color:white;">✓</div>
+      <div class="metric-content">
+        <span class="metric-label">SELESAI</span>
+        <span class="metric-value" id="valSelesai">0</span>
+        <span class="metric-unit">Kegiatan</span>
+      </div>
+    </div>
+    <div class="metric-card glass-card animate-in" style="animation-delay: 0.4s">
+      <div class="metric-icon" style="background:#f59e0b; color:white;">⏱</div>
+      <div class="metric-content">
+        <span class="metric-label">ON PROGRESS</span>
+        <span class="metric-value" id="valProgress">0</span>
+        <span class="metric-unit">Kegiatan</span>
+      </div>
+    </div>
+    <div class="metric-card glass-card animate-in" style="animation-delay: 0.45s">
+      <div class="metric-icon" style="background:#3b82f6; color:white;">▶</div>
+      <div class="metric-content">
+        <span class="metric-label">BELUM MULAI</span>
+        <span class="metric-value" id="valBelum">0</span>
+        <span class="metric-unit">Kegiatan</span>
+      </div>
+    </div>
+    <div class="metric-card glass-card animate-in" style="animation-delay: 0.5s">
+      <div class="metric-icon" style="background:#ef4444; color:white;">🚩</div>
+      <div class="metric-content">
+        <span class="metric-label">OVERDUE</span>
+        <span class="metric-value" id="valOverdue">0</span>
+        <span class="metric-unit">Kegiatan</span>
+      </div>
+    </div>
+    <div class="metric-card glass-card completion-card animate-in" style="animation-delay: 0.55s">
+      <div class="metric-content">
+        <span class="metric-label">PERSENTASE<br>PENYELESAIAN</span>
+      </div>
+      <div class="completion-circle">
+        <canvas id="chartCompletion" width="80" height="80"></canvas>
+        <div class="completion-text" id="valCompletion">0%</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Charts Row 1 -->
+  <div class="charts-row r1">
+    <div class="chart-box glass-card c-trend animate-in" style="animation-delay: 0.6s">
+      <h3>TREND KEGIATAN PER BULAN</h3>
+      <div class="chart-wrapper"><canvas id="chartTrend"></canvas></div>
+    </div>
+    <div class="chart-box glass-card c-status animate-in" style="animation-delay: 0.65s">
+      <h3>STATUS KEGIATAN</h3>
+      <div class="chart-wrapper"><canvas id="chartStatus"></canvas></div>
+      <div class="status-note" id="statusNote">Terdapat 0 kegiatan overdue</div>
+    </div>
+    <div class="chart-box glass-card c-kuartal animate-in" style="animation-delay: 0.7s">
+      <h3>PROGRESS KEGIATAN PER KUARTAL</h3>
+      <div class="chart-wrapper"><canvas id="chartKuartal"></canvas></div>
+    </div>
+  </div>
+
+  <!-- Charts Row 2 -->
+  <div class="charts-row r2">
+    <div class="chart-box glass-card animate-in" style="animation-delay: 0.75s">
+      <h3>STATUS PER SUPERVISOR</h3>
+      <div class="chart-wrapper"><canvas id="chartSupervisor"></canvas></div>
+    </div>
+    <div class="chart-box glass-card animate-in" style="animation-delay: 0.8s">
+      <h3>JENIS KEGIATAN</h3>
+      <div class="chart-wrapper"><canvas id="chartJenisKegiatan"></canvas></div>
+    </div>
+    <div class="chart-box glass-card animate-in" style="animation-delay: 0.85s">
+      <h3>SEKTOR</h3>
+      <div class="chart-wrapper"><canvas id="chartSektor"></canvas></div>
+    </div>
+    <div class="chart-box glass-card animate-in" style="animation-delay: 0.9s">
+      <h3>JENIS LJK</h3>
+      <div class="chart-wrapper"><canvas id="chartJenisLJK"></canvas></div>
+    </div>
+  </div>
+
+  <!-- Charts Row 3 -->
+  <div class="charts-row r3">
+    <div class="chart-box glass-card c-kota animate-in" style="animation-delay: 0.95s">
+      <h3>KEGIATAN PER KABUPATEN / KOTA</h3>
+      <div class="chart-wrapper"><canvas id="chartKota"></canvas></div>
+    </div>
+    <div class="chart-box glass-card c-top10 animate-in" style="animation-delay: 1.0s">
+      <h3>TOP 10 PUJK (OBJEK PENGAWASAN)</h3>
+      <div class="table-wrapper">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>No.</th>
+              <th>Nama PUJK</th>
+              <th>Jenis LJK</th>
+              <th>Sektor</th>
+              <th>Jumlah Kegiatan</th>
+            </tr>
+          </thead>
+          <tbody id="tbodyTop10"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Charts Row 4 -->
+  <div class="charts-row r4">
+    <div class="chart-box glass-card c-timeline animate-in" style="animation-delay: 1.05s">
+      <h3>TIMELINE KEGIATAN (GANTT CHART)</h3>
+      <div class="table-wrapper">
+        <table class="data-table gantt-table">
+          <thead>
+            <tr>
+              <th rowspan="2" style="min-width:180px;">Nama Kegiatan</th>
+              <th rowspan="2" style="min-width:120px;">Supervisor</th>
+              <th colspan="12" style="text-align:center;">2026</th>
+            </tr>
+            <tr>
+              <th>Jan</th><th>Feb</th><th>Mar</th><th>Apr</th><th>Mei</th><th>Jun</th>
+              <th>Jul</th><th>Agu</th><th>Sep</th><th>Okt</th><th>Nov</th><th>Des</th>
+            </tr>
+          </thead>
+          <tbody id="tbodyGantt"></tbody>
+        </table>
+      </div>
+      <div class="gantt-legend">
+        <span class="legend-item"><span class="box bg-maroon"></span> Periode Pelaksanaan Kegiatan</span>
+        <span class="legend-item"><span class="box bg-gray"></span> Diluar Periode</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer animate-in" style="animation-delay: 1.1s">
+    <span>Catatan: Data bersumber dari database schedule pengawasan offsite (Data dapat berubah sewaktu-waktu)</span>
+    <span>Dashboard dibuat menggunakan HTML, CSS, JS</span>
+  </footer>
+
+  <script src="assets/script.js?v=3"></script>
+</body>
+</html>
