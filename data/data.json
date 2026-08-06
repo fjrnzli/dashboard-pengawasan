@@ -1,12 +1,12 @@
 {
   "kegiatan": [
     {
-      "no": 1,
+      "no": "1",
       "namaKegiatan": "Prudential Meeting RBB PT BPR Multidhana Bersama",
       "namaPUJK": "PT BPR Multidhana Bersama",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
-      "jenisLJK": "PPE Ebus",
+      "bidang": "PBKN",
+      "jenisLJK": "BPR",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -14,14 +14,19 @@
       "tanggalSelesai": "2026-01-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 2,
+      "no": "2",
       "namaKegiatan": "Prudential Meeting RBB PT BPR Candi Agung Amuntai",
       "namaPUJK": "PT BPR Candi Agung Amuntai",
       "kotaKab": "Kab. Hulu Sungai Utara",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
@@ -30,14 +35,19 @@
       "tanggalSelesai": "2026-01-14",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 3,
+      "no": "3",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Danapermata Lestari",
       "namaPUJK": "PT BPR Danapermata Lestari",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -46,15 +56,20 @@
       "tanggalSelesai": "2026-01-14",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 4,
+      "no": "4",
       "namaKegiatan": "Prudential Meeting RBB Jamkrida Kalsel",
       "namaPUJK": "PT Jamkrida Kalsel",
-      "kotaKab": "Kota Banjarmasin",
-      "sektor": "PVML",
-      "jenisLJK": "Jamkrida",
+      "kotaKab": "Banjarmasin",
+      "bidang": "PPDP",
+      "jenisLJK": "Perusahaan Penjaminan",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -62,15 +77,19 @@
       "tanggalSelesai": "2026-01-15",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 5,
+      "no": "5",
       "namaKegiatan": "Prudential Meeting RBB PT BPD Kalimantan Selatan (Post Audit Monitoring)",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -78,14 +97,19 @@
       "tanggalSelesai": "2026-01-15",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 7,
+      "no": "7",
       "namaKegiatan": "PT BPR Gawisabumi Mandarsari",
       "namaPUJK": "PT BPR Gawisabumi Mandarsari",
       "kotaKab": "Kota Banjarbaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -94,15 +118,21 @@
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 8,
+      "no": "8",
       "namaKegiatan": "Dana Pensiun BPD Kalsel",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Dana Pensiun",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -110,15 +140,19 @@
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 9,
+      "no": "9",
       "namaKegiatan": "Sarana Kalsel Ventura",
       "namaPUJK": "PT Sarana Kalsel Ventura",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "PVML",
-      "jenisLJK": "Modal Ventura",
+      "bidang": "PVML",
+      "jenisLJK": "Perusahaan Modal Ventura",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -126,14 +160,19 @@
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 10,
+      "no": "10",
       "namaKegiatan": "Prudential Meeting RBB PT Bank Perekonomian Rakyat Tanah Laut",
       "namaPUJK": "PT BPR Tanah Laut",
       "kotaKab": "Kab. Tanah Laut",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
@@ -142,14 +181,19 @@
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 11,
+      "no": "11",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Hulu Sungai Selatan Perseroda",
-      "namaPUJK": "PT BPR Hulu Sungai Selatan Perseroda",
+      "namaPUJK": "PT BPR Hulu Sungai Selatan",
       "kotaKab": "Kab. Hulu Sungai Selatan",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -158,14 +202,19 @@
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 12,
+      "no": "12",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Martapura Banjar Sejahtera Perseroda",
-      "namaPUJK": "PT BPR Martapura Banjar Sejahtera Perseroda",
+      "namaPUJK": "PT BPR Martapura Banjar Sejahtera",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -174,14 +223,19 @@
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 13,
+      "no": "13",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Bank Kotabaru Perseroda",
-      "namaPUJK": "PT BPR Bank Kotabaru Perseroda",
+      "namaPUJK": "PT BPR Bank Kotabaru",
       "kotaKab": "Kab. Kotabaru",
-      "sektor": "",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -190,14 +244,18 @@
       "tanggalSelesai": "2026-01-21",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 14,
+      "no": "14",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Azaz Andifa",
       "namaPUJK": "PT BPR Azaz Andifa",
       "kotaKab": "Kab. Batulicin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -206,14 +264,19 @@
       "tanggalSelesai": "2026-01-21",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 15,
+      "no": "15",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Kredit Mandiri Kalsel",
       "namaPUJK": "PT BPR Kredit Mandiri Kalsel",
       "kotaKab": "Kota Banjarbaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -222,14 +285,19 @@
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 16,
+      "no": "16",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Mitratama Arthabuana",
       "namaPUJK": "PT BPR Mitratama Arthabuana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -238,14 +306,19 @@
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 17,
+      "no": "17",
       "namaKegiatan": "PT BPR Sanggam Cipta Sejahtera Balangan",
-      "namaPUJK": "PT BPR Sanggam Cipta Sejahtera Balangan",
+      "namaPUJK": "PT BPR Sanggam Cipta Sejahtera",
       "kotaKab": "Kab. Balangan",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -254,14 +327,19 @@
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 18,
+      "no": "18",
       "namaKegiatan": "PT BPRS Barkah Gemadana",
       "namaPUJK": "PT BPRS Barkah Gemadana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPRS",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -270,14 +348,19 @@
       "tanggalSelesai": "2026-01-26",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 19,
+      "no": "19",
       "namaKegiatan": "PT BPR Tabalong Bersinar",
       "namaPUJK": "PT BPR Tabalong Bersinar",
       "kotaKab": "Kab. Tabalong",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -286,14 +369,18 @@
       "tanggalSelesai": "2026-01-27",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 20,
+      "no": "20",
       "namaKegiatan": "PT Bank Perekonomian Rakyat Tapin Sejahtera Perseroda",
-      "namaPUJK": "PT BPR Tapin Sejahtera Perseroda",
+      "namaPUJK": "PT BPR Tapin Sejahtera",
       "kotaKab": "Kab. Tapin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -302,15 +389,19 @@
       "tanggalSelesai": "2026-01-28",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 21,
+      "no": "21",
       "namaKegiatan": "Penyusunan KYB/FI BPR",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "KYBFI",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -318,15 +409,20 @@
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 22,
+      "no": "22",
       "namaKegiatan": "KYBBPR (Approval)",
       "namaPUJK": "Lainnya",
-      "kotaKab": "",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "kotaKab": "Lainnya",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "KYBFI",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -334,15 +430,20 @@
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 23,
+      "no": "23",
       "namaKegiatan": "LHP PT BPD Kalimantan Selatan",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q1",
       "bulan": "Januari",
@@ -350,15 +451,19 @@
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 24,
+      "no": "24",
       "namaKegiatan": "Prudential Meeting RBB PT BPD Kalimantan Selatan (RBB)",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -366,15 +471,20 @@
       "tanggalSelesai": "2026-02-03",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 25,
+      "no": "25",
       "namaKegiatan": "Evaluasi Kinerja se-Kalimantan",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "",
-      "jenisLJK": "",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Evaluasi Kinerja",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -382,15 +492,20 @@
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 26,
+      "no": "26",
       "namaKegiatan": "KYB Bank Kalsel Semester II Tahun 2025",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "KYBFI",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -398,15 +513,19 @@
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 27,
+      "no": "27",
       "namaKegiatan": "Pengerjaan TKS BPR",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pengerjaan TKS",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -414,15 +533,20 @@
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 28,
+      "no": "28",
       "namaKegiatan": "Pengerjaan TKS RBBR BPR",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pengerjaan TKS",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -430,15 +554,21 @@
       "tanggalSelesai": "2026-02-20",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 29,
+      "no": "29",
       "namaKegiatan": "Pengerjaan TKS Bank Kalsel Semester II Tahun 2025",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Pengerjaan TKS",
       "kuartal": "Q1",
       "bulan": "Februari",
@@ -446,14 +576,18 @@
       "tanggalSelesai": "2026-02-20",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 32,
+      "no": "32",
       "namaKegiatan": "Pemeriksaan Umum PT BPRS Barkah Gemadana",
       "namaPUJK": "PT BPRS Barkah Gemadana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPRS",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -462,14 +596,19 @@
       "tanggalSelesai": "2026-02-27",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 33,
+      "no": "33",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Martapura Banjar Sejahtera",
       "namaPUJK": "PT BPR Martapura Banjar Sejahtera",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -478,14 +617,18 @@
       "tanggalSelesai": "2026-02-27",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 34,
+      "no": "34",
       "namaKegiatan": "LHP BPRS Barkah Gemadana (MIZ) dan BPR MBS (KZ)",
       "namaPUJK": "PT BPRS Barkah Gemadana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPRS",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q1",
@@ -494,14 +637,18 @@
       "tanggalSelesai": "2026-03-06",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 35,
+      "no": "35",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Azaz Andifa",
       "namaPUJK": "PT BPR Azaz Andifa",
       "kotaKab": "Kab. Batulicin",
-      "sektor": "",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q1",
@@ -510,14 +657,19 @@
       "tanggalSelesai": "2026-03-06",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 36,
+      "no": "36",
       "namaKegiatan": "LHP BPR DPL (FRN)",
       "namaPUJK": "PT BPR Danapermata Lestari",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q1",
@@ -526,14 +678,19 @@
       "tanggalSelesai": "2026-03-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 38,
+      "no": "38",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Tapin Sejahtera",
-      "namaPUJK": "PT BPR Tapin Sejahtera Perseroda",
+      "namaPUJK": "PT BPR Tapin Sejahtera",
       "kotaKab": "Kab. Tapin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -542,14 +699,19 @@
       "tanggalSelesai": "2026-04-17",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 39,
+      "no": "39",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Tanah Laut",
       "namaPUJK": "PT BPR Tanah Laut",
       "kotaKab": "Kab. Tanah Laut",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -558,14 +720,19 @@
       "tanggalSelesai": "2026-04-17",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 40,
+      "no": "40",
       "namaKegiatan": "LHP BPR Tapin (DMZ) dan BPR TALA (KZ)",
-      "namaPUJK": "PT BPR Tapin Sejahtera Perseroda",
+      "namaPUJK": "PT BPR Tapin Sejahtera",
       "kotaKab": "Kab. Tapin",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
@@ -574,15 +741,19 @@
       "tanggalSelesai": "2026-04-24",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 41,
+      "no": "41",
       "namaKegiatan": "APERD Dalam Kota",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "PVML",
-      "jenisLJK": "APERD",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
       "bulan": "April",
@@ -590,15 +761,19 @@
       "tanggalSelesai": "2026-04-24",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 42,
+      "no": "42",
       "namaKegiatan": "LHP APERD (FRN)",
       "namaPUJK": "Lainnya",
-      "kotaKab": "",
-      "sektor": "PVML",
-      "jenisLJK": "APERD",
+      "kotaKab": "Lainnya",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
       "bulan": "April",
@@ -606,14 +781,20 @@
       "tanggalSelesai": "2026-04-28",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 43,
+      "no": "43",
       "namaKegiatan": "Pemeriksaan Umum Dana Pensiun BPD Kalsel",
-      "namaPUJK": "Dana Pensiun PT BPD Kalimantan Selatan",
+      "namaPUJK": "Dana Pensiun BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "PPDP",
+      "bidang": "PPDP",
       "jenisLJK": "Dana Pensiun",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -622,14 +803,19 @@
       "tanggalSelesai": "2026-04-28",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 44,
+      "no": "44",
       "namaKegiatan": "Pemeriksaan Umum PT BPR GSM",
       "namaPUJK": "PT BPR Gawisabumi Mandarsari",
       "kotaKab": "Kota Banjarbaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -638,14 +824,18 @@
       "tanggalSelesai": "2026-04-30",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 45,
-      "namaKegiatan": "LHP BPR DAPEN (KRB-PRB)",
-      "namaPUJK": "BPR DAPEN",
-      "kotaKab": "Kab. Kotabaru",
-      "sektor": "PPDP",
+      "no": "45",
+      "namaKegiatan": "LHP DAPEN Kalimantan Selatan",
+      "namaPUJK": "Dana Pensiun BPD Kalimantan Selatan",
+      "kotaKab": "Kota Banjarmasin",
+      "bidang": "PPDP",
       "jenisLJK": "Dana Pensiun",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
@@ -654,14 +844,18 @@
       "tanggalSelesai": "2026-05-05",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 46,
+      "no": "46",
       "namaKegiatan": "LHP BPR GSM (DMZ)",
       "namaPUJK": "PT BPR Gawisabumi Mandarsari",
       "kotaKab": "Kota Banjarbaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
@@ -670,14 +864,18 @@
       "tanggalSelesai": "2026-05-13",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 47,
+      "no": "47",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Mitratama Artha Buana",
-      "namaPUJK": "PT BPR Mitratama Artha Buana",
+      "namaPUJK": "PT BPR Mitratama Arthabuana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -686,15 +884,20 @@
       "tanggalSelesai": "2026-05-12",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 48,
+      "no": "48",
       "namaKegiatan": "Prudential Meeting RBB PT BPD Kalimantan Selatan (Realisasi RBB TW I/26 & Post Audit Monitoring)",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q2",
       "bulan": "Mei",
@@ -702,14 +905,19 @@
       "tanggalSelesai": "2026-05-12",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 50,
+      "no": "50",
       "namaKegiatan": "LHP BPR MITRA (PRB)",
       "namaPUJK": "PT BPR Mitratama Arthabuana",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
@@ -718,14 +926,19 @@
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 51,
+      "no": "51",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Tabalong Bersinar",
       "namaPUJK": "PT BPR Tabalong Bersinar",
       "kotaKab": "Kab. Tabalong",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -734,14 +947,19 @@
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 52,
+      "no": "52",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Sanggam Cipta Sejahtera",
       "namaPUJK": "PT BPR Sanggam Cipta Sejahtera",
       "kotaKab": "Kab. Balangan",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -750,14 +968,19 @@
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 54,
+      "no": "54",
       "namaKegiatan": "LHP BPR Tabalong Bersinar (DMZ) dan BPR SCS (KZ)",
       "namaPUJK": "PT BPR Tabalong Bersinar",
       "kotaKab": "Kab. Tabalong",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
@@ -766,15 +989,19 @@
       "tanggalSelesai": "2026-06-05",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 55,
+      "no": "55",
       "namaKegiatan": "Pemeriksaan Umum Gadai Mega Sentosa",
       "namaPUJK": "PT Gadai Mega Sentosa",
-      "kotaKab": "Kota Banjarbaru",
-      "sektor": "PVML",
-      "jenisLJK": "Pegadaian",
+      "kotaKab": "Banjarbaru",
+      "bidang": "PVML",
+      "jenisLJK": "Perusahaan Pergadaian",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -782,15 +1009,19 @@
       "tanggalSelesai": "2026-06-05",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 56,
+      "no": "56",
       "namaKegiatan": "LHP Gadai Mega Sentosa (PRB)",
       "namaPUJK": "PT Gadai Mega Sentosa",
-      "kotaKab": "Kota Banjarbaru",
-      "sektor": "PVML",
-      "jenisLJK": "Pegadaian",
+      "kotaKab": "Banjarbaru",
+      "bidang": "PVML",
+      "jenisLJK": "Perusahaan Pergadaian",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -798,14 +1029,18 @@
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
       "dateWarning": false
     },
     {
-      "no": 57,
+      "no": "57",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Hulu Sungai Selatan",
       "namaPUJK": "PT BPR Hulu Sungai Selatan",
       "kotaKab": "Kab. Hulu Sungai Selatan",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -814,15 +1049,20 @@
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto",
+        "Purbo Budi Aji Raharjo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 58,
+      "no": "58",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Dana Permata Lestari",
       "namaPUJK": "PT BPR Dana Permata Lestari",
-      "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -830,15 +1070,20 @@
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 59,
+      "no": "59",
       "namaKegiatan": "LHP HSS (MIZ) dan AZAZ (FRN)",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -846,14 +1091,19 @@
       "tanggalSelesai": "2026-06-19",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 60,
+      "no": "60",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Kotabaru",
-      "namaPUJK": "PT BPR Kotabaru",
+      "namaPUJK": "PT BPR Bank Kotabaru",
       "kotaKab": "Kab. Kotabaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -862,14 +1112,18 @@
       "tanggalSelesai": "2026-06-26",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 61,
+      "no": "61",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Kredit Mandiri Kalsel",
       "namaPUJK": "PT BPR Kredit Mandiri Kalsel",
       "kotaKab": "Kota Banjarbaru",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
@@ -878,15 +1132,20 @@
       "tanggalSelesai": "2026-06-26",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 62,
+      "no": "62",
       "namaKegiatan": "Penyusunan KYFI dan TKS Dana Pensiun BPD Kalsel",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "PPDP",
-      "jenisLJK": "Dana Pensiun",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Pengerjaan TKS",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -894,15 +1153,19 @@
       "tanggalSelesai": "2026-06-30",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 63,
+      "no": "63",
       "namaKegiatan": "LHP KTB (KZ) dan KMKS (DMZ)",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -910,15 +1173,20 @@
       "tanggalSelesai": "2026-07-03",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 64,
+      "no": "64",
       "namaKegiatan": "Pemeriksaan Umum Sarana Kalsel ventura",
       "namaPUJK": "PT Sarana Kalsel Ventura",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "PVML",
-      "jenisLJK": "Modal Ventura",
+      "bidang": "PVML",
+      "jenisLJK": "Perusahaan Modal Ventura",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q2",
       "bulan": "Juni",
@@ -926,15 +1194,21 @@
       "tanggalSelesai": "2026-07-03",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 65,
+      "no": "65",
       "namaKegiatan": "LHP SKV (PRB)",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "PVML",
-      "jenisLJK": "Modal Ventura",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q3",
       "bulan": "Juli",
@@ -942,14 +1216,15 @@
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Selesai",
+      "anggota": [],
       "dateWarning": false
     },
     {
-      "no": 66,
+      "no": "66",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Candi Agung Amuntai",
       "namaPUJK": "PT BPR Candi Agung Amuntai",
       "kotaKab": "Kab. Hulu Sungai Utara",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -958,14 +1233,19 @@
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 67,
+      "no": "67",
       "namaKegiatan": "Pemeriksaan Umum PT BPR Multidhana Bersama",
       "namaPUJK": "PT BPR Multidhana Bersama",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -974,14 +1254,19 @@
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Kirbani",
       "statusKegiatan": "Selesai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 68,
-      "namaKegiatan": "LHP MULTI (KZ) dan CAA (DMZ)",
-      "namaPUJK": "PT BPR Multidhana Bersama & PT BPR Candi Agung Amuntai",
+      "no": "68",
+      "namaKegiatan": "LHP MULTIDHANA BERSAMA",
+      "namaPUJK": "PT BPR Multidhana Bersama",
       "kotaKab": "Kab. Banjar",
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q3",
@@ -990,15 +1275,20 @@
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "On Progress",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 69,
+      "no": "69",
       "namaKegiatan": "Pemeriksaan PPE EBUS BPD Kalsel",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
       "bulan": "Juli",
@@ -1006,15 +1296,20 @@
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Kirbani",
       "statusKegiatan": "On Progress",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 70,
+      "no": "70",
       "namaKegiatan": "KYB Bank Kalsel Semester I",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "KYBFI",
       "kuartal": "Q3",
       "bulan": "Juli",
@@ -1022,15 +1317,20 @@
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "On Progress",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 71,
+      "no": "71",
       "namaKegiatan": "LHP PPE (FRN)",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "PVML",
-      "jenisLJK": "PPE Ebus",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q3",
       "bulan": "Juli",
@@ -1038,15 +1338,19 @@
       "tanggalSelesai": "2026-07-31",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 72,
+      "no": "72",
       "namaKegiatan": "Pemeriksaan Umum Jamkrida Kalsel",
       "namaPUJK": "PT Jamkrida Kalsel",
-      "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Manajer Investasi",
+      "kotaKab": "Banjarmasin",
+      "bidang": "PPDP",
+      "jenisLJK": "Perusahaan Penjaminan",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
       "bulan": "Juli",
@@ -1054,15 +1358,20 @@
       "tanggalSelesai": "2026-07-31",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 73,
+      "no": "73",
       "namaKegiatan": "RBBR Bank Kalsel Semester I",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Penyusunan RBBR",
       "kuartal": "Q3",
       "bulan": "Agustus",
@@ -1070,15 +1379,20 @@
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 74,
+      "no": "74",
       "namaKegiatan": "LHP JAMKRIDA (PRB)",
       "namaPUJK": "PT Jamkrida Kalsel",
-      "kotaKab": "Kota Banjarmasin",
-      "sektor": "PVML",
-      "jenisLJK": "Jamkrida",
+      "kotaKab": "Banjarmasin",
+      "bidang": "PPDP",
+      "jenisLJK": "Perusahaan Penjaminan",
       "jenisKegiatan": "Penyusunan LHP",
       "kuartal": "Q3",
       "bulan": "Agustus",
@@ -1086,15 +1400,20 @@
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 75,
+      "no": "75",
       "namaKegiatan": "Pengerjaan RBBR BPR dan BPD",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Penyusunan RBBR",
       "kuartal": "Q3",
       "bulan": "Agustus",
@@ -1102,15 +1421,20 @@
       "tanggalSelesai": "2026-08-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 76,
+      "no": "76",
       "namaKegiatan": "Entry Meeting Pemeriksaan Umum PT BPD Kalimantan Selatan + Kantor Pusat",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
       "bulan": "Agustus",
@@ -1118,14 +1442,20 @@
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 77,
+      "no": "77",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC A",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1134,14 +1464,19 @@
       "tanggalSelesai": "2026-08-14",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 78,
+      "no": "78",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC B",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1150,14 +1485,18 @@
       "tanggalSelesai": "2026-08-14",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 80,
+      "no": "80",
       "namaKegiatan": "Recycling IJK",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "",
       "kuartal": "Q3",
@@ -1166,15 +1505,20 @@
       "tanggalSelesai": "2026-08-21",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 82,
+      "no": "82",
       "namaKegiatan": "Prudential Meeting 10 BPR",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR",
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q3",
       "bulan": "Agustus",
@@ -1182,14 +1526,18 @@
       "tanggalSelesai": "2026-08-28",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 83,
+      "no": "83",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC C",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1198,14 +1546,19 @@
       "tanggalSelesai": "2026-09-04",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 84,
+      "no": "84",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC D",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1214,15 +1567,19 @@
       "tanggalSelesai": "2026-09-04",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 85,
+      "no": "85",
       "namaKegiatan": "Prudential Meeting RBB PT BPD Kalimantan Selatan (Realisasi RBB TWI I/26 & Post Audit Monitoring)",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q3",
       "bulan": "September",
@@ -1230,14 +1587,18 @@
       "tanggalSelesai": "2026-09-08",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 86,
+      "no": "86",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC E",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1246,14 +1607,19 @@
       "tanggalSelesai": "2026-09-18",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 87,
+      "no": "87",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC F",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1262,14 +1628,18 @@
       "tanggalSelesai": "2026-09-18",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 88,
+      "no": "88",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC G",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1278,14 +1648,19 @@
       "tanggalSelesai": "2026-10-02",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 89,
+      "no": "89",
       "namaKegiatan": "Pemeriksaan Kantor Cabang Luar Kota - KC H",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q3",
@@ -1294,14 +1669,19 @@
       "tanggalSelesai": "2026-10-02",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 90,
+      "no": "90",
       "namaKegiatan": "Pemeriksaan Kantor Pusat",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q4",
@@ -1310,14 +1690,19 @@
       "tanggalSelesai": "2026-10-16",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 91,
+      "no": "91",
       "namaKegiatan": "Pemeriksaan MI Dalam Kota",
       "namaPUJK": "Lainnya",
       "kotaKab": "Lainnya",
-      "sektor": "Lainnya",
+      "bidang": "Lainnya",
       "jenisLJK": "Lainnya",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q4",
@@ -1326,15 +1711,20 @@
       "tanggalSelesai": "2026-10-30",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 92,
+      "no": "92",
       "namaKegiatan": "Pemeriksaan Gadai Sangat Jaya",
       "namaPUJK": "PT Gadai Sangat Jaya",
-      "kotaKab": "Kota Banjarmasin",
-      "sektor": "PVML",
-      "jenisLJK": "Pegadaian",
+      "kotaKab": "Banjarmasin",
+      "bidang": "PVML",
+      "jenisLJK": "Perusahaan Pergadaian",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q4",
       "bulan": "November",
@@ -1342,14 +1732,19 @@
       "tanggalSelesai": "2026-11-06",
       "supervisor": "Satrio Aji Nugroho",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan",
+        "Dimas Arbianto"
+      ],
       "dateWarning": false
     },
     {
-      "no": 93,
+      "no": "93",
       "namaKegiatan": "Pemeriksaan Perusahaan Efek",
       "namaPUJK": "PT BNI sekuritas",
-      "kotaKab": "Kota Banjarbaru",
-      "sektor": "PVML",
+      "kotaKab": "Kota Banjarmasin",
+      "bidang": "PMDK",
       "jenisLJK": "Perusahaan Efek",
       "jenisKegiatan": "Pemeriksaan Umum",
       "kuartal": "Q4",
@@ -1358,15 +1753,20 @@
       "tanggalSelesai": "2026-11-13",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Fahrunnisa",
+        "Alexander Mackenzie Bangun",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     },
     {
-      "no": 94,
+      "no": "94",
       "namaKegiatan": "Prudential Meeting RBB PT BPD Kalimantan Selatan (Realisasi RBB TWII I/26 & Post Audit Monitoring)",
       "namaPUJK": "PT BPD Kalimantan Selatan",
       "kotaKab": "Kota Banjarmasin",
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum",
+      "bidang": "PBKN",
+      "jenisLJK": "BUK",
       "jenisKegiatan": "Prudential Meeting",
       "kuartal": "Q4",
       "bulan": "November",
@@ -1374,40 +1774,45 @@
       "tanggalSelesai": "2026-11-18",
       "supervisor": "Kirbani",
       "statusKegiatan": "Belum Mulai",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
       "dateWarning": false
     }
   ],
   "hariLibur": [
     {
-      "no": 6,
+      "no": "6",
       "keterangan": "16 Januari 2026 -  Isra' Miraj"
     },
     {
-      "no": 30,
+      "no": "30",
       "keterangan": "16 Februari 2026 - Cuti Bersama"
     },
     {
-      "no": 31,
+      "no": "31",
       "keterangan": "17 Februari 2026 - Tahun Baru Imlek"
     },
     {
-      "no": 37,
+      "no": "37",
       "keterangan": "18 Maret 2026 s.d. 24 Maret 2026 - Cuti Bersama dan Libur Lebaran"
     },
     {
-      "no": 49,
+      "no": "49",
       "keterangan": "14 Mei 2026 s.d. 15 Mei 2026 - Cuti Bersama dan Libur Kenaikan Yesus Kristus"
     },
     {
-      "no": 53,
+      "no": "53",
       "keterangan": "27 Mei 2026 s.d. 28 Mei 2026 - Cuti Bersama dan Libur Idul Adha"
     },
     {
-      "no": 79,
+      "no": "79",
       "keterangan": "17 Agustus 2026 - Hari Kemerdekaan"
     },
     {
-      "no": 81,
+      "no": "81",
       "keterangan": "25 Agustus 2026 - Maulid Nabi"
     }
   ],
@@ -1415,67 +1820,68 @@
     {
       "nama": "Lainnya",
       "jumlah": 24,
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR"
+      "bidang": "Lainnya",
+      "jenisLJK": "Lainnya"
     },
     {
       "nama": "PT BPD Kalimantan Selatan",
       "jumlah": 14,
-      "sektor": "Perbankan",
-      "jenisLJK": "Bank Umum"
+      "bidang": "PBKN",
+      "jenisLJK": "BUK"
+    },
+    {
+      "nama": "PT BPR Multidhana Bersama",
+      "jumlah": 3,
+      "bidang": "PBKN",
+      "jenisLJK": "BPR"
     },
     {
       "nama": "PT Jamkrida Kalsel",
       "jumlah": 3,
-      "sektor": "PVML",
-      "jenisLJK": "Jamkrida"
+      "bidang": "PPDP",
+      "jenisLJK": "Perusahaan Penjaminan"
     },
     {
       "nama": "PT BPR Gawisabumi Mandarsari",
       "jumlah": 3,
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
+      "jenisLJK": "BPR"
+    },
+    {
+      "nama": "PT BPR Mitratama Arthabuana",
+      "jumlah": 3,
+      "bidang": "PBKN",
       "jenisLJK": "BPR"
     },
     {
       "nama": "PT BPRS Barkah Gemadana",
       "jumlah": 3,
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPRS"
     },
     {
       "nama": "PT BPR Tabalong Bersinar",
       "jumlah": 3,
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR"
     },
     {
-      "nama": "PT BPR Tapin Sejahtera Perseroda",
+      "nama": "PT BPR Tapin Sejahtera",
       "jumlah": 3,
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR"
-    },
-    {
-      "nama": "PT BPR Multidhana Bersama",
-      "jumlah": 2,
-      "sektor": "Perbankan",
-      "jenisLJK": "PPE Ebus"
     },
     {
       "nama": "PT BPR Candi Agung Amuntai",
       "jumlah": 2,
-      "sektor": "Perbankan",
-      "jenisLJK": "BPR"
-    },
-    {
-      "nama": "PT BPR Danapermata Lestari",
-      "jumlah": 2,
-      "sektor": "Perbankan",
+      "bidang": "PBKN",
       "jenisLJK": "BPR"
     }
   ],
   "metadata": {
     "totalKegiatan": 86,
-    "tanggalGenerate": "2026-07-31T09:57:55.841980",
+    "tanggalGenerate": "2026-08-06T16:55:43.705116",
+    "sumber": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTswl_KO5Flwh1dMg8RJv8wbJnXAmJ13yei15FV8NmiO9O4Rt9RGGcfTFeK9HoynQ/pub?output=xlsx",
     "warnings": []
   }
 }
