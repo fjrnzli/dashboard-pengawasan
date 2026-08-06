@@ -13,12 +13,12 @@
       "tanggalMulai": "2026-01-13",
       "tanggalSelesai": "2026-01-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -34,12 +34,12 @@
       "tanggalMulai": "2026-01-14",
       "tanggalSelesai": "2026-01-14",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -55,12 +55,12 @@
       "tanggalMulai": "2026-01-14",
       "tanggalSelesai": "2026-01-14",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -76,11 +76,11 @@
       "tanggalMulai": "2026-01-15",
       "tanggalSelesai": "2026-01-15",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -96,12 +96,29 @@
       "tanggalMulai": "2026-01-15",
       "tanggalSelesai": "2026-01-15",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
+      "dateWarning": false
+    },
+    {
+      "no": "6",
+      "namaKegiatan": "16 Januari 2026 -  Isra' Miraj",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -117,13 +134,13 @@
       "tanggalMulai": "2026-01-19",
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -139,11 +156,11 @@
       "tanggalMulai": "2026-01-19",
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -159,12 +176,12 @@
       "tanggalMulai": "2026-01-19",
       "tanggalSelesai": "2026-01-19",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -180,12 +197,12 @@
       "tanggalMulai": "2026-01-20",
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -201,12 +218,12 @@
       "tanggalMulai": "2026-01-20",
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -222,12 +239,12 @@
       "tanggalMulai": "2026-01-20",
       "tanggalSelesai": "2026-01-20",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -243,11 +260,11 @@
       "tanggalMulai": "2026-01-21",
       "tanggalSelesai": "2026-01-21",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -263,12 +280,12 @@
       "tanggalMulai": "2026-01-21",
       "tanggalSelesai": "2026-01-21",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -284,12 +301,12 @@
       "tanggalMulai": "2026-01-22",
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -305,12 +322,12 @@
       "tanggalMulai": "2026-01-22",
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -326,12 +343,12 @@
       "tanggalMulai": "2026-01-22",
       "tanggalSelesai": "2026-01-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -347,12 +364,12 @@
       "tanggalMulai": "2026-01-26",
       "tanggalSelesai": "2026-01-26",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -368,11 +385,11 @@
       "tanggalMulai": "2026-01-27",
       "tanggalSelesai": "2026-01-27",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -388,11 +405,11 @@
       "tanggalMulai": "2026-01-28",
       "tanggalSelesai": "2026-01-28",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -408,12 +425,12 @@
       "tanggalMulai": "2026-01-26",
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -429,12 +446,12 @@
       "tanggalMulai": "2026-01-29",
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -450,11 +467,11 @@
       "tanggalMulai": "2026-01-30",
       "tanggalSelesai": "2026-01-30",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -470,12 +487,12 @@
       "tanggalMulai": "2026-02-03",
       "tanggalSelesai": "2026-02-03",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -491,12 +508,12 @@
       "tanggalMulai": "2026-02-09",
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -512,11 +529,11 @@
       "tanggalMulai": "2026-02-09",
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -532,12 +549,12 @@
       "tanggalMulai": "2026-02-09",
       "tanggalSelesai": "2026-02-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -553,13 +570,13 @@
       "tanggalMulai": "2026-02-09",
       "tanggalSelesai": "2026-02-20",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -575,11 +592,45 @@
       "tanggalMulai": "2026-02-18",
       "tanggalSelesai": "2026-02-20",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
+      "dateWarning": false
+    },
+    {
+      "no": "30",
+      "namaKegiatan": "16 Februari 2026 - Cuti Bersama",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
+      "dateWarning": false
+    },
+    {
+      "no": "31",
+      "namaKegiatan": "17 Februari 2026 - Tahun Baru Imlek",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -595,12 +646,12 @@
       "tanggalMulai": "2026-02-23",
       "tanggalSelesai": "2026-02-27",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -616,11 +667,11 @@
       "tanggalMulai": "2026-02-23",
       "tanggalSelesai": "2026-02-27",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -636,11 +687,11 @@
       "tanggalMulai": "2026-03-02",
       "tanggalSelesai": "2026-03-06",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -656,12 +707,12 @@
       "tanggalMulai": "2026-03-02",
       "tanggalSelesai": "2026-03-06",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -677,12 +728,32 @@
       "tanggalMulai": "2026-03-09",
       "tanggalSelesai": "2026-03-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
+      "dateWarning": false
+    },
+    {
+      "no": "37",
+      "namaKegiatan": "18 Maret 2026 s.d. 24 Maret 2026 - Cuti Bersama dan Libur Lebaran",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [
+        "Fitri Amelia",
+        "Imam Zimaharawan"
+      ],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -698,12 +769,12 @@
       "tanggalMulai": "2026-04-13",
       "tanggalSelesai": "2026-04-17",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -719,12 +790,12 @@
       "tanggalMulai": "2026-04-13",
       "tanggalSelesai": "2026-04-17",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -740,11 +811,11 @@
       "tanggalMulai": "2026-04-20",
       "tanggalSelesai": "2026-04-24",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -760,11 +831,11 @@
       "tanggalMulai": "2026-04-20",
       "tanggalSelesai": "2026-04-24",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -780,13 +851,13 @@
       "tanggalMulai": "2026-04-20",
       "tanggalSelesai": "2026-04-28",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -802,12 +873,12 @@
       "tanggalMulai": "2026-04-20",
       "tanggalSelesai": "2026-04-28",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -823,11 +894,11 @@
       "tanggalMulai": "2026-04-27",
       "tanggalSelesai": "2026-04-30",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -843,11 +914,11 @@
       "tanggalMulai": "2026-04-28",
       "tanggalSelesai": "2026-05-05",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -863,11 +934,11 @@
       "tanggalMulai": "2026-05-06",
       "tanggalSelesai": "2026-05-13",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -883,12 +954,12 @@
       "tanggalMulai": "2026-05-04",
       "tanggalSelesai": "2026-05-12",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -904,12 +975,29 @@
       "tanggalMulai": "2026-05-12",
       "tanggalSelesai": "2026-05-12",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
+      "dateWarning": false
+    },
+    {
+      "no": "49",
+      "namaKegiatan": "14 Mei 2026 s.d. 15 Mei 2026 - Cuti Bersama dan Libur Kenaikan Yesus Kristus",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -925,12 +1013,12 @@
       "tanggalMulai": "2026-05-18",
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -946,12 +1034,12 @@
       "tanggalMulai": "2026-05-18",
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -967,12 +1055,33 @@
       "tanggalMulai": "2026-05-18",
       "tanggalSelesai": "2026-05-22",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
+      "dateWarning": false
+    },
+    {
+      "no": "53",
+      "namaKegiatan": "27 Mei 2026 s.d. 28 Mei 2026 - Cuti Bersama dan Libur Idul Adha",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [
+        "Alexander Mackenzie Bangun",
+        "Purbo Budi Aji Raharjo",
+        "Aqil Arinal Haqqo"
+      ],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -988,11 +1097,11 @@
       "tanggalMulai": "2026-05-25",
       "tanggalSelesai": "2026-06-05",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1008,11 +1117,11 @@
       "tanggalMulai": "2026-06-02",
       "tanggalSelesai": "2026-06-05",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1028,11 +1137,11 @@
       "tanggalMulai": "2026-06-08",
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1048,12 +1157,12 @@
       "tanggalMulai": "2026-06-08",
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto",
         "Purbo Budi Aji Raharjo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1069,12 +1178,12 @@
       "tanggalMulai": "2026-06-08",
       "tanggalSelesai": "2026-06-12",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1090,12 +1199,12 @@
       "tanggalMulai": "2026-06-15",
       "tanggalSelesai": "2026-06-19",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1111,11 +1220,11 @@
       "tanggalMulai": "2026-06-22",
       "tanggalSelesai": "2026-06-26",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1131,12 +1240,12 @@
       "tanggalMulai": "2026-06-22",
       "tanggalSelesai": "2026-06-26",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1152,11 +1261,11 @@
       "tanggalMulai": "2026-06-22",
       "tanggalSelesai": "2026-06-30",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1172,12 +1281,12 @@
       "tanggalMulai": "2026-06-29",
       "tanggalSelesai": "2026-07-03",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1193,13 +1302,13 @@
       "tanggalMulai": "2026-06-29",
       "tanggalSelesai": "2026-07-03",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1215,8 +1324,8 @@
       "tanggalMulai": "2026-07-06",
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Selesai",
       "anggota": [],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1232,12 +1341,12 @@
       "tanggalMulai": "2026-07-06",
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1253,12 +1362,12 @@
       "tanggalMulai": "2026-07-06",
       "tanggalSelesai": "2026-07-10",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Selesai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Selesai",
       "dateWarning": false
     },
     {
@@ -1274,12 +1383,12 @@
       "tanggalMulai": "2026-07-13",
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "On Progress",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "On Progress",
       "dateWarning": false
     },
     {
@@ -1295,12 +1404,12 @@
       "tanggalMulai": "2026-07-13",
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Kirbani",
-      "statusKegiatan": "On Progress",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "On Progress",
       "dateWarning": false
     },
     {
@@ -1316,12 +1425,12 @@
       "tanggalMulai": "2026-07-13",
       "tanggalSelesai": "2026-07-17",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "On Progress",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "On Progress",
       "dateWarning": false
     },
     {
@@ -1337,11 +1446,11 @@
       "tanggalMulai": "2026-07-20",
       "tanggalSelesai": "2026-07-31",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1357,12 +1466,12 @@
       "tanggalMulai": "2026-07-20",
       "tanggalSelesai": "2026-07-31",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1378,12 +1487,12 @@
       "tanggalMulai": "2026-08-03",
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1399,12 +1508,12 @@
       "tanggalMulai": "2026-08-03",
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1420,12 +1529,12 @@
       "tanggalMulai": "2026-08-03",
       "tanggalSelesai": "2026-08-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1441,13 +1550,13 @@
       "tanggalMulai": "2026-08-03",
       "tanggalSelesai": "2026-08-07",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1463,12 +1572,12 @@
       "tanggalMulai": "2026-08-10",
       "tanggalSelesai": "2026-08-14",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1484,11 +1593,28 @@
       "tanggalMulai": "2026-08-10",
       "tanggalSelesai": "2026-08-14",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
+      "dateWarning": false
+    },
+    {
+      "no": "79",
+      "namaKegiatan": "17 Agustus 2026 - Hari Kemerdekaan",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -1504,12 +1630,29 @@
       "tanggalMulai": "2026-08-18",
       "tanggalSelesai": "2026-08-21",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
+      "dateWarning": false
+    },
+    {
+      "no": "81",
+      "namaKegiatan": "25 Agustus 2026 - Maulid Nabi",
+      "namaPUJK": "",
+      "kotaKab": "",
+      "bidang": "",
+      "jenisLJK": "",
+      "jenisKegiatan": "",
+      "kuartal": "",
+      "bulan": "",
+      "tanggalMulai": null,
+      "tanggalSelesai": null,
+      "supervisor": "",
+      "anggota": [],
+      "statusKegiatan": "",
       "dateWarning": false
     },
     {
@@ -1525,11 +1668,11 @@
       "tanggalMulai": "2026-08-26",
       "tanggalSelesai": "2026-08-28",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1545,12 +1688,12 @@
       "tanggalMulai": "2026-08-31",
       "tanggalSelesai": "2026-09-04",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1566,11 +1709,11 @@
       "tanggalMulai": "2026-08-31",
       "tanggalSelesai": "2026-09-04",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1586,11 +1729,11 @@
       "tanggalMulai": "2026-09-08",
       "tanggalSelesai": "2026-09-08",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1606,12 +1749,12 @@
       "tanggalMulai": "2026-09-14",
       "tanggalSelesai": "2026-09-18",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1627,11 +1770,11 @@
       "tanggalMulai": "2026-09-14",
       "tanggalSelesai": "2026-09-18",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1647,12 +1790,12 @@
       "tanggalMulai": "2026-09-28",
       "tanggalSelesai": "2026-10-02",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1668,12 +1811,12 @@
       "tanggalMulai": "2026-09-28",
       "tanggalSelesai": "2026-10-02",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1689,12 +1832,12 @@
       "tanggalMulai": "2026-10-05",
       "tanggalSelesai": "2026-10-16",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1710,12 +1853,12 @@
       "tanggalMulai": "2026-10-26",
       "tanggalSelesai": "2026-10-30",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1731,12 +1874,12 @@
       "tanggalMulai": "2026-11-03",
       "tanggalSelesai": "2026-11-06",
       "supervisor": "Satrio Aji Nugroho",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fitri Amelia",
         "Imam Zimaharawan",
         "Dimas Arbianto"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1752,12 +1895,12 @@
       "tanggalMulai": "2026-11-10",
       "tanggalSelesai": "2026-11-13",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Fahrunnisa",
         "Alexander Mackenzie Bangun",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     },
     {
@@ -1773,115 +1916,81 @@
       "tanggalMulai": "2026-11-18",
       "tanggalSelesai": "2026-11-18",
       "supervisor": "Kirbani",
-      "statusKegiatan": "Belum Mulai",
       "anggota": [
         "Alexander Mackenzie Bangun",
         "Purbo Budi Aji Raharjo",
         "Aqil Arinal Haqqo"
       ],
+      "statusKegiatan": "Belum Mulai",
       "dateWarning": false
     }
   ],
-  "hariLibur": [
-    {
-      "no": "6",
-      "keterangan": "16 Januari 2026 -  Isra' Miraj"
-    },
-    {
-      "no": "30",
-      "keterangan": "16 Februari 2026 - Cuti Bersama"
-    },
-    {
-      "no": "31",
-      "keterangan": "17 Februari 2026 - Tahun Baru Imlek"
-    },
-    {
-      "no": "37",
-      "keterangan": "18 Maret 2026 s.d. 24 Maret 2026 - Cuti Bersama dan Libur Lebaran"
-    },
-    {
-      "no": "49",
-      "keterangan": "14 Mei 2026 s.d. 15 Mei 2026 - Cuti Bersama dan Libur Kenaikan Yesus Kristus"
-    },
-    {
-      "no": "53",
-      "keterangan": "27 Mei 2026 s.d. 28 Mei 2026 - Cuti Bersama dan Libur Idul Adha"
-    },
-    {
-      "no": "79",
-      "keterangan": "17 Agustus 2026 - Hari Kemerdekaan"
-    },
-    {
-      "no": "81",
-      "keterangan": "25 Agustus 2026 - Maulid Nabi"
-    }
-  ],
+  "hariLibur": [],
   "topPUJK": [
     {
       "nama": "Lainnya",
       "jumlah": 24,
-      "bidang": "Lainnya",
-      "jenisLJK": "Lainnya"
+      "jenisLJK": "Lainnya",
+      "bidang": "Lainnya"
     },
     {
       "nama": "PT BPD Kalimantan Selatan",
       "jumlah": 14,
-      "bidang": "PBKN",
-      "jenisLJK": "BUK"
+      "jenisLJK": "BUK",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPR Multidhana Bersama",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT Jamkrida Kalsel",
       "jumlah": 3,
-      "bidang": "PPDP",
-      "jenisLJK": "Perusahaan Penjaminan"
+      "jenisLJK": "Perusahaan Penjaminan",
+      "bidang": "PPDP"
     },
     {
       "nama": "PT BPR Gawisabumi Mandarsari",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPR Mitratama Arthabuana",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPRS Barkah Gemadana",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPRS"
+      "jenisLJK": "BPRS",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPR Tabalong Bersinar",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPR Tapin Sejahtera",
       "jumlah": 3,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     },
     {
       "nama": "PT BPR Candi Agung Amuntai",
       "jumlah": 2,
-      "bidang": "PBKN",
-      "jenisLJK": "BPR"
+      "jenisLJK": "BPR",
+      "bidang": "PBKN"
     }
   ],
   "metadata": {
-    "totalKegiatan": 86,
-    "tanggalGenerate": "2026-08-06T16:55:43.705116",
-    "sumber": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTswl_KO5Flwh1dMg8RJv8wbJnXAmJ13yei15FV8NmiO9O4Rt9RGGcfTFeK9HoynQ/pub?output=xlsx",
-    "warnings": []
+    "totalKegiatan": 94,
+    "tanggalGenerate": "2026-08-06T09:16:30.629048",
+    "sumber": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTswl_KO5Flwh1dMg8RJv8wbJnXAmJ13yei15FV8NmiO9O4Rt9RGGcfTFeK9HoynQ/pub?output=xlsx"
   }
 }
