@@ -183,7 +183,7 @@ def fetch_and_convert_gsheet():
         "topPUJK": top10,
         "metadata": {
             "totalKegiatan": len(kegiatan),
-            "tanggalGenerate": datetime.now().isoformat(),
+            "tanggalGenerate": datetime.utcnow().isoformat() + "Z",
             "sumber": GSHEET_URL,
             "warnings": date_warnings,
         },

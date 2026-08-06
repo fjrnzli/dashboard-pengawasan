@@ -161,10 +161,18 @@ function updateDashboard() {
   const filtered = getFilteredData();
 
   const tglStr = DATA.metadata?.tanggalGenerate;
-  const genDate = tglStr ? new Date(tglStr) : new Date();
-  const dateFormatted = genDate.toLocaleDateString('id-ID', { day:'numeric', month:'short', year:'numeric' });
-  const timeFormatted = genDate.toLocaleTimeString('id-ID', { hour:'2-digit', minute:'2-digit', second:'2-digit' });
-  document.getElementById('metaDate').textContent = `${dateFormatted}, ${timeFormatted}`;
+  let genDate;
+  if (tglStr) {
+    // If the string has no timezone indicator (from old server.py), treat as WIB (UTC+7)
+    // If it ends with Z or +, it's already timezone-aware
+    const hasTimezone = tglStr.endsWith('Z') || tglStr.includes('+') || tglStr.includes(' UTC');
+    genDate = hasTimezone ? new Date(tglStr) : new Date(tglStr + '+07:00');
+  } else {
+    genDate = new Date();
+  }
+  const dateFormatted = genDate.toLocaleDateString('id-ID', { day:'numeric', month:'short', year:'numeric', timeZone:'Asia/Jakarta' });
+  const timeFormatted = genDate.toLocaleTimeString('id-ID', { hour:'2-digit', minute:'2-digit', second:'2-digit', timeZone:'Asia/Jakarta' });
+  document.getElementById('metaDate').textContent = `${dateFormatted}, ${timeFormatted} WIB`;
 
   const total    = filtered.length;
   const selesai  = filtered.filter(k => k.statusKegiatan === 'Selesai').length;
